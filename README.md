@@ -6,6 +6,12 @@ Dataset used: http://archive.ics.uci.edu/ml/datasets/Adult
 
 Database: sqlite
 
+![](https://i.imgur.com/sww8r9d.png)
+![](https://i.imgur.com/yqoPSCw.png)
+![](https://i.imgur.com/1WBQkhK.png)
+![](https://i.imgur.com/MkQsYgf.png)
+
+
 ### Requirements:
 
 ```python
