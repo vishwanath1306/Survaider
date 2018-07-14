@@ -30,5 +30,11 @@ SQLAlchemy==1.2.8
 Flask==1.0.2
 ```
 
+### Install Requirements:
+
+```python
+pip install -r setup/requirements.txt
+```
+
 
 
