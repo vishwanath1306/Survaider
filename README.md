@@ -11,6 +11,10 @@ Database: sqlite
 ![](https://i.imgur.com/1WBQkhK.png)
 ![](https://i.imgur.com/MkQsYgf.png)
 
+### To Fetch all records from the database:
+
+![](https://i.imgur.com/zYwGexD.png)
+![](https://i.imgur.com/qAH0tqV.png)
 
 ### Requirements:
 
